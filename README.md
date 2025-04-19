@@ -50,7 +50,7 @@ With support for **automated financial workflows**, **AI-driven reports**, and *
 | **Backend**       | Node.js, Express                       |
 | **Database**      | MongoDB                                |
 | **Auth**          | Clerk                                  |
-| **AI Integration**| Custom prompts + OpenAI API (or similar) |
+| **AI Integration**| Custom prompts + Gemini API (or similar) |
 | **Scheduling**    | Inngest                                 |
 | **Email**         | Resend                                  |
 | **Hosting**       | Vercel                                  |
