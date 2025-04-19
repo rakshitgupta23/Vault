@@ -1,4 +1,4 @@
-# Vault – Smart Personal Finance Management
+# <img src="public/logo-sm.jpg" height=25> Vault - Manage your money smarter
 
 **Vault** is a modern full-stack personal finance platform built to help users **analyze spending**, **plan budgets**, and **receive intelligent financial insights** — all through an elegant, secure, and scalable interface.
 
